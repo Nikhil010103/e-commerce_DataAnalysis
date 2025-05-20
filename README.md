@@ -22,5 +22,5 @@ This project performs exploratory data analysis (EDA) on an e-commerce dataset (
 ## 📁 Files
 
 - `ecommerce_eda.ipynb`: Main notebook containing all analysis
-- `Sample - Superstore.csv`: Dataset used
+- `Sample - Superstore (1).csv`: Dataset used
 - `README.md`: Project overview
